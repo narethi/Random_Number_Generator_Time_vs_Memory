@@ -1,0 +1,1 @@
+This is a random number generator that illustrates how to seed numbers using the system time and a memory location
